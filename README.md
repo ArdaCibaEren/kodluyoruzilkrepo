@@ -5,7 +5,7 @@ Kodluyoruz Back-End Eğitiminde oluşturduğumuz ilk repo, içerisinde bir adet 
 # Installation
 Öncelikle projeyi clonelayın. 
 ```
-https://github.com/ArdaCibaEren/kodluyoruzilkrepo"
+https://github.com/ArdaCibaEren/kodluyoruzilkrepo
 ```
 
 # Usage
